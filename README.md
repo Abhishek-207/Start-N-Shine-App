@@ -1,10 +1,10 @@
 # Start N Shine
 
-A new Flutter project.
+
+
+
 
 ## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
 
 ### IMPORTANT:
 
@@ -19,13 +19,15 @@ This command creates the generated files that parse each Record from Firestore i
 
 ### Getting started continued:
 
-This project is a starting point for a Flutter application.
+### Requirements
+Flutter SDK,
+VS Code and
+Android Studio,
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Run the following commands from your terminal:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1) `git clone https://github.com/floranguyen0/mmas-money-tracker` to clone this repository 
+
+2) `flutter pub get` in the project root directory to install all the required dependencies.
