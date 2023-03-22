@@ -1,6 +1,6 @@
 # Start N Shine
+![Group 200](https://user-images.githubusercontent.com/98517363/227026607-4768055b-a2ea-4f3b-baf3-028c2c51e372.png)
 
-![Group 200](https://user-images.githubusercontent.com/98517363/227025949-a4a79efe-0a89-4d08-a81a-b871b0878f46.png)
 
 
 ##About
