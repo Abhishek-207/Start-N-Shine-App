@@ -7,6 +7,14 @@ Start N Shine is a mobile application designed for startup enthusiasts and entre
 
 ## App UI!
 ![Untitled design](https://user-images.githubusercontent.com/98517363/227028900-3437e035-9bbb-44e6-9791-3ee51264ccce.png)
+![1](https://user-images.githubusercontent.com/98517363/227029503-94f57768-6b0f-4aa7-a035-bb051acf4f62.png)
+![2](https://user-images.githubusercontent.com/98517363/227029519-a407b1ea-c3de-484a-abb5-3aea6f0506c0.png)
+![3](https://user-images.githubusercontent.com/98517363/227029540-6b999773-9078-489c-bbea-e2811e8069a2.png)
+![4](https://user-images.githubusercontent.com/98517363/227029556-b241d763-298a-4e2c-a1c6-bfa4a1464cab.png)
+![5](https://user-images.githubusercontent.com/98517363/227029565-488b7a01-f78e-484a-9fe6-2c39868ddb34.png)
+![6](https://user-images.githubusercontent.com/98517363/227029577-7473aa5e-739d-4a1c-8e9d-0acf21bd01c0.png)
+![7](https://user-images.githubusercontent.com/98517363/227029591-3590d6ca-20a7-429b-abb4-be13f8e57ae1.png)
+
 
 
 
