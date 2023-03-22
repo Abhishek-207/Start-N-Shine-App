@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "925797742373",
+    "project_id": "start-n-shine",
+    "storage_bucket": "start-n-shine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925797742373:android:c6aead14127cfe84fd0ccc",
+        "android_client_info": {
+          "package_name": "com.mycompany.startnshine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925797742373-gfnnmkvh2hqposplbr8t3ie68naqctkm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.startnshine",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "925797742373-tm1uiuvrag8jae2j7tcgilmessvc3g9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.startnshine",
+            "certificate_hash": "dfce04886d1d20c9ff29287dd5431a1a3b834a10"
+          }
+        },
+        {
+          "client_id": "925797742373-dn7uef5looo7n5tjmdfg5kviddomlun9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlLB5bBMquQfC8JodzBJiAqSgKB7S-b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925797742373-dn7uef5looo7n5tjmdfg5kviddomlun9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925797742373-ph0a58qmps01vkmhq2ujg4mfctcciikc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.startnshine"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
