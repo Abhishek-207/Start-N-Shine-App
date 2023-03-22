@@ -6,7 +6,7 @@
 Start N Shine is a mobile application designed for startup enthusiasts and entrepreneurs to connect, learn, and grow together. It offers exclusive startup-related content and provides opportunities to connect with like-minded individuals, participate in challenges, and win exciting rewards. Startnshine users can stay updated with the latest happenings in the startup world, join various communities, attend startup events near them, connect with investors, and can do many more things. Overall, Startnshine is an all-in-one app for anyone interested in the startup ecosystem.
 
 ## App UI!
-[Untitled design](https://user-images.githubusercontent.com/98517363/227028900-3437e035-9bbb-44e6-9791-3ee51264ccce.png)
+![Untitled design](https://user-images.githubusercontent.com/98517363/227028900-3437e035-9bbb-44e6-9791-3ee51264ccce.png)
 
 
 
