@@ -1,5 +1,5 @@
 # Start N Shine
-![Untitled design](https://user-images.githubusercontent.com/98517363/227030161-b670e6a3-8735-4e0f-a6ca-35e2a9c8c212.png align="center" )
+(https://user-images.githubusercontent.com/98517363/227030161-b670e6a3-8735-4e0f-a6ca-35e2a9c8c212.png)
 
 
 
